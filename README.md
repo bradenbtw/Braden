@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @bradenbtw
+- I'm currently learning different programming languages to use them to make my own video games
